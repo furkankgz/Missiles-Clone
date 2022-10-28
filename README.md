@@ -1,1 +1,1 @@
-# Missiles clone game with Unity.
+# Missiles game clone with Unity.
